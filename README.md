@@ -1,6 +1,6 @@
 # hunter
 
-1：
+0-1：
 ```
 https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes#phase-2--web-and-server-technology
 ```
