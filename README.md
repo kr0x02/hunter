@@ -5,6 +5,10 @@
 https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes#phase-2--web-and-server-technology
 ```
 
+tools and lab:
+```
+https://portswigger.net/
+```
 
 target:
 ```
