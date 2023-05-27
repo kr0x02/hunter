@@ -14,6 +14,7 @@ https://github.com/madhuakula/kubernetes-goat
 
 https://github.com/vavkamil/awesome-vulnerable-apps
 https://github.com/kaiiyer/awesome-vulnerable
+https://github.com/rapid7/metasploitable3
 ```
 
 target:
