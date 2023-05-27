@@ -11,6 +11,9 @@ https://portswigger.net/
 
 Cloud security_lab
 https://github.com/madhuakula/kubernetes-goat
+
+https://github.com/vavkamil/awesome-vulnerable-apps
+https://github.com/kaiiyer/awesome-vulnerable
 ```
 
 target:
