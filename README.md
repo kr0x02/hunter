@@ -8,6 +8,8 @@ https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bount
 tools and lab:
 ```
 https://portswigger.net/
+https://tryhackme.com/
+https://www.hackthebox.com/
 
 Cloud security_lab
 https://github.com/madhuakula/kubernetes-goat
